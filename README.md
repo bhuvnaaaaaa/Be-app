@@ -1,4 +1,5 @@
 # Be - AI-Powered Wellness App
+Live Demo - https://be-wellness.netlify.app/
 
 A beautiful, space-themed wellness application that provides daily affirmations, AI-powered journal responses, and guided meditations.
 
@@ -6,7 +7,7 @@ A beautiful, space-themed wellness application that provides daily affirmations,
 
 - **Daily Affirmations**: Cosmic-themed affirmations organized by categories (self-love, strength, abundance, peace, growth, cosmic, purpose, gratitude)
 - **AI-Powered Journal**: Therapeutic responses powered by Google Gemini AI with follow-up reflection questions
-- **Guided Meditations**: Collection of calming meditations with audio playback
+- **AI-Generated Guided Meditations**: Collection of calming meditations generated using ElevenLabs TTS
 - **Elegant Design**: Space-themed UI with smooth animations and responsive design
 
 ## Setup
